@@ -1,0 +1,5 @@
+# mvn_study
+maven学习
+同时学习junit的使用
+以工大课程设计的题目练习javase项目
+以java web 项目开发案例精粹练习web项目中maven的使用
